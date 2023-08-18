@@ -1,6 +1,7 @@
 # CrossNet
 This is the official code for paper Cross-Resolution Semi-Supervised Adversarial
 Learning for Pansharpening.
+
 @ARTICLE{10113368,
   author={Yang, Guishuo and Zhang, Kai and Zhang, Feng and Wang, Jian and Sun, Jiande},
   journal={IEEE Transactions on Geoscience and Remote Sensing}, 
